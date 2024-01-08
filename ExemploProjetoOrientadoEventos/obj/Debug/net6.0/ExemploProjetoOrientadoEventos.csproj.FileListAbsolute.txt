@@ -1,0 +1,15 @@
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.csproj.AssemblyReference.cache
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.AssemblyInfoInputs.cache
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.AssemblyInfo.cs
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.csproj.CoreCompileInputs.cache
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\bin\Debug\net6.0\ExemploProjetoOrientadoEventos.exe
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\bin\Debug\net6.0\ExemploProjetoOrientadoEventos.deps.json
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\bin\Debug\net6.0\ExemploProjetoOrientadoEventos.runtimeconfig.json
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\bin\Debug\net6.0\ExemploProjetoOrientadoEventos.dll
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\bin\Debug\net6.0\ExemploProjetoOrientadoEventos.pdb
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.dll
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\refint\ExemploProjetoOrientadoEventos.dll
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.pdb
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ExemploProjetoOrientadoEventos.genruntimeconfig.cache
+C:\Users\tavok\OneDrive\Documentos\Codigo\DotNet\ExemploProjetoOrientadoEventos\ExemploProjetoOrientadoEventos\obj\Debug\net6.0\ref\ExemploProjetoOrientadoEventos.dll
